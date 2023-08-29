@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7416469e5dbb9a40af6c865ed8b9ced, type: 3}
+  m_Name: SMA_Trees
+  m_EditorClassIdentifier: 
+  audioMeshDictionary:
+  - mesh: {fileID: 4300000, guid: 528bcfb2338ecb2418b75a2b59da9848, type: 3}
+    audioClip: {fileID: 8300000, guid: 6324c05bdaa884ad8a0314b0fdf70ffd, type: 3}
+  - mesh: {fileID: 4300000, guid: f119fa83f1038ac4b833f21a41cae9d1, type: 3}
+    audioClip: {fileID: 8300000, guid: 394fbbf543e404d599efbb83eaa6710e, type: 3}
