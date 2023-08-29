@@ -1,3 +1,20 @@
 {
-	"name": "StaticMeshAudioEmitters"
+    "name": "StaticMeshAudioEmitters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d0154e2220b1dd849944900c35e26b4b",
+        "GUID:06f8c3b6cf5926c43bd6f79ab6a77f72",
+        "GUID:daf10f18e6885af408a21e2da90c64c0",
+        "GUID:c833476b0f07dde499b8a274b01e2aca",
+        "GUID:f6fbd2a240f954b4487503f937ef64b5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
